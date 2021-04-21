@@ -1,0 +1,1 @@
+# Konut_Analizi
